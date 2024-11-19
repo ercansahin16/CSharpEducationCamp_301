@@ -8,5 +8,6 @@ namespace C_EducationCamp.EntityLayer.Concrete
 {
    public class Category
    {
+      //
    }
 }
