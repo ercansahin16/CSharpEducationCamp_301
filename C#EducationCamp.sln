@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#EducationCamp.EntityLayer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#EducationCamp.DataAccessLayer", "C#EducationCamp.DataAccessLayer\C#EducationCamp.DataAccessLayer.csproj", "{65590A78-DD93-4D0C-A43C-B34B705DA4B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#EducationCamp.BusinessLayer", "C#EducationCamp.BusinessLayer\C#EducationCamp.BusinessLayer.csproj", "{858DFA86-733F-40F8-B655-E682CAA11577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#EducationCamp.PresentationLayer", "C#EducationCamp.PresentationLayer\C#EducationCamp.PresentationLayer.csproj", "{9894694B-6999-47A1-BB25-08415268276C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{65590A78-DD93-4D0C-A43C-B34B705DA4B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65590A78-DD93-4D0C-A43C-B34B705DA4B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65590A78-DD93-4D0C-A43C-B34B705DA4B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858DFA86-733F-40F8-B655-E682CAA11577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858DFA86-733F-40F8-B655-E682CAA11577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858DFA86-733F-40F8-B655-E682CAA11577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858DFA86-733F-40F8-B655-E682CAA11577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9894694B-6999-47A1-BB25-08415268276C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9894694B-6999-47A1-BB25-08415268276C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9894694B-6999-47A1-BB25-08415268276C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9894694B-6999-47A1-BB25-08415268276C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
