@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#EducationCamp.EntityLayer", "C#EducationCamp.EntityLayer\C#EducationCamp.EntityLayer.csproj", "{CB3803D2-F40C-45C8-B56F-D05F459EA491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#EducationCamp.DataAccessLayer", "C#EducationCamp.DataAccessLayer\C#EducationCamp.DataAccessLayer.csproj", "{65590A78-DD93-4D0C-A43C-B34B705DA4B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CB3803D2-F40C-45C8-B56F-D05F459EA491}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB3803D2-F40C-45C8-B56F-D05F459EA491}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB3803D2-F40C-45C8-B56F-D05F459EA491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65590A78-DD93-4D0C-A43C-B34B705DA4B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65590A78-DD93-4D0C-A43C-B34B705DA4B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65590A78-DD93-4D0C-A43C-B34B705DA4B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65590A78-DD93-4D0C-A43C-B34B705DA4B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
