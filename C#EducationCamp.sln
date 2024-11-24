@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#EducationCamp.BusinessLay
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#EducationCamp.PresentationLayer", "C#EducationCamp.PresentationLayer\C#EducationCamp.PresentationLayer.csproj", "{9894694B-6999-47A1-BB25-08415268276C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#EducationCamp.EFProject", "C#EducationCamp.EFProject\C#EducationCamp.EFProject.csproj", "{26D1D00E-29E3-4E2B-A853-5886AF70D2E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9894694B-6999-47A1-BB25-08415268276C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9894694B-6999-47A1-BB25-08415268276C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9894694B-6999-47A1-BB25-08415268276C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26D1D00E-29E3-4E2B-A853-5886AF70D2E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D1D00E-29E3-4E2B-A853-5886AF70D2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D1D00E-29E3-4E2B-A853-5886AF70D2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D1D00E-29E3-4E2B-A853-5886AF70D2E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
