@@ -26,7 +26,12 @@ namespace C_EducationCamp.EFProject
          LblOrtalamaCapacity.Text = voids.ortalama().ToString();//ortalama kapasite
          LblAvgPrice.Text = voids.avgprice().ToString()+"₺";
          LblLastCountry.Text = voids.lastCountry();
-
+         lblcapadociaCapacity.Text = voids.KapadociaCapacity().ToString();
+         LblTrAvgCapacity.Text=voids.TrAvgCapacity();
+         LblRomaGuideName.Text = voids.RomaGuideName();
+         LblMaxTour.Text=voids.MaxTours();
+         LblMaxPrice.Text = voids.MaxPrice();
+         LblTourNumber.Text=voids.RanaTourNumber();
       }
      
       private void panel10_Paint(object sender, PaintEventArgs e)
