@@ -23,3 +23,7 @@ Rehber bazlı tur istatistikleri (örneğin, "Rana" rehberinin yönettiği topla
 <hr>
 
 ![](https://github.com/ercansahin16/CSharpEducationCamp_301/blob/master/imgs/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-11-26%20003519.png)
+<hr>
+![](https://github.com/ercansahin16/CSharpEducationCamp_301/blob/master/imgs/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-11-26%20003544.png)
+<hr>
+![](https://github.com/ercansahin16/CSharpEducationCamp_301/blob/master/imgs/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-11-26%20003720.png)
