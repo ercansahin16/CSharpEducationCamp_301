@@ -1,5 +1,4 @@
 
-README İçin Hazırlanan Metin:
 🌍 C# Education Camp - Seyahat İstatistikleri Yönetim Sistemi
 C# Education Camp projesi, seyahat ve tur organizasyonlarına dair önemli istatistikleri yöneten ve görselleştiren bir Windows Forms uygulamasıdır. Bu uygulama, Entity Framework kullanılarak geliştirilen bir arka uç veritabanı altyapısına sahiptir ve kullanıcıya dinamik olarak oluşturulan istatistiksel verilere kolayca erişim sağlar.
 
