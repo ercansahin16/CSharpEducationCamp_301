@@ -73,6 +73,12 @@
     <Compile Include="FrmLocation.Designer.cs">
       <DependentUpon>FrmLocation.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmStatistik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStatistik.Designer.cs">
+      <DependentUpon>FrmStatistik.cs</DependentUpon>
+    </Compile>
     <Compile Include="Güide.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
@@ -99,11 +105,15 @@
     <Compile Include="sysdiagrams.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
+    <Compile Include="Voids.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmLocation.resx">
       <DependentUpon>FrmLocation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStatistik.resx">
+      <DependentUpon>FrmStatistik.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

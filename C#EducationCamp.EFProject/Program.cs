@@ -16,7 +16,7 @@ namespace C_EducationCamp.EFProject
       {
          Application.EnableVisualStyles();
          Application.SetCompatibleTextRenderingDefault(false);
-         Application.Run(new FrmLocation());
+         Application.Run(new FrmStatistik());
       }
    }
 }
