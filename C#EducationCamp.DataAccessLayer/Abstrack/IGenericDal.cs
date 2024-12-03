@@ -10,7 +10,7 @@ namespace C_EducationCamp.DataAccessLayer.Abstrack
    {
       void Insert(T entity);
       void Update(T entity);
-      void Delete(int id);
+      void Delete(T entity);
       List<T> GetAll();
       T GetById(int id);
 
