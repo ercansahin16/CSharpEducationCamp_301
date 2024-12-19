@@ -41,12 +41,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\ICategoryService.cs" />
+    <Compile Include="Abstract\ICustomerService.cs" />
+    <Compile Include="Abstract\IGenericService.cs" />
+    <Compile Include="Abstract\IOrderService.cs" />
+    <Compile Include="Abstract\IProductService.cs" />
+    <Compile Include="Concrete\CategoryManager.cs" />
+    <Compile Include="Concrete\CustomerManager.cs" />
+    <Compile Include="Concrete\OrderManager.cs" />
+    <Compile Include="Concrete\ProductManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\C#EducationCamp.DataAccessLayer\C#EducationCamp.DataAccessLayer.csproj">
       <Project>{65590a78-dd93-4d0c-a43c-b34b705da4b1}</Project>
       <Name>C#EducationCamp.DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\C#EducationCamp.EntityLayer\C#EducationCamp.EntityLayer.csproj">
+      <Project>{cb3803d2-f40c-45c8-b56f-d05f459ea491}</Project>
+      <Name>C#EducationCamp.EntityLayer</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

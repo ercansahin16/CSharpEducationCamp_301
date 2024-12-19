@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace C_EducationCamp.PresentationLayer
 {
-   public partial class Form1 : Form
+   public partial class FrmCategory : Form
    {
-      public Form1()
+      public FrmCategory()
       {
          InitializeComponent();
+      }
+
+      private void label2_Click(object sender, EventArgs e)
+      {
+
       }
    }
 }
